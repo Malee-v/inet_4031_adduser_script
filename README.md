@@ -52,4 +52,6 @@ If those do not work, try:
 
 'sudo python3 create-users.py < create-users.input'
 
+## Dry Run 
 
+If the user chooses to perform a "dry run," the script will simulate the creation of users without executing any system commands. This allows the user to verify the input file and preview the actions the script would take. During a dry run, the script prints the commands it would run, helping users catch formatting issues or errors before making changes to the system.
