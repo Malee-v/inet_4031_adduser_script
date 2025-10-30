@@ -24,12 +24,8 @@ Each line in the input file should follow this format:
 User:Pass:LastName:FirstName:GroupID,..
 
 username: login name of the user.
-
 Password: User's password to log in.
-
 LastName: Last name of the user.
-
 FirstName: First name of the user.
-
 GroupID: The user's group (there can be more than one group, distinguished with ',' between groups listed)
 
