@@ -18,7 +18,7 @@ This script uses those same commands internally, allowing administrators to batc
 ## Program User Operation
 
 This section explains how to operate the script. After reading this, users will understand how to prepare the input file and execute the script. The internal comments in the code explain the logic and flow in detail.
-
+# Input File Format
 Each line in the input file should follow this format:
 
 User:Pass:LastName:FirstName:GroupID,..
@@ -37,4 +37,5 @@ FirstName
 
 GroupID
 : The user's group (there can be more than one group, distinguished with ',' between groups listed)
+
 
